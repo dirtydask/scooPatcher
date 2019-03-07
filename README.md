@@ -20,8 +20,3 @@ Instructions:
 
 
 A PatchReport.csv log file will be created and updated in <$($PSScriptRoot)\Logs> folder as each computer finishes. Please do not open the csv file while the script is still running to assure that each computer can update this file as they finish.
-
-
-SSgt Daskalakis, Stilianos
-52 CS/SCP
-452-2888
