@@ -1,4 +1,4 @@
-# ScooPatcher
+# SCOO-Patcher
 Script will only work for MICROSOFT PATCHES!   
 
 This is a multithreaded script that will attempt to patch every computer listed in the Computers.txt file with any Microsoft patch that exists in the <2.Patches> folder.
