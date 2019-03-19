@@ -11,5 +11,5 @@ Features include:
 
 Requirments:
 * Scripts must be allowed to run
-`<Set-ExecutionPolicy Unrestricted>`
-* PSExec must be placed in the 'C:\Windows\System32' folder
+`Set-ExecutionPolicy Unrestricted`
+* PSExec must be placed in the `C:\Windows\System32` folder
