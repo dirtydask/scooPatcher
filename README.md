@@ -1,7 +1,7 @@
 # scooPatcher
 This is a multithreaded script that assist with common CS functions.
 
-Features include:
+## Features
 
 * Deploying Microsoft Updates
 * HBSS Agent Management
@@ -9,7 +9,7 @@ Features include:
 * Parallel Ping
 * Querying User Sessions
 
-Requirements:
+## Requirements
 * Scripts must be allowed to run
 `Set-ExecutionPolicy Unrestricted`
 * PSExec must be placed in the `C:\Windows\System32` folder
