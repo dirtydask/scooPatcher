@@ -1,5 +1,5 @@
 # scooPatcher
-This is a multithreaded script that assist with common CS functions.
+This is a multithreaded script to assist with common CS functions.
 
 ## Features
 
