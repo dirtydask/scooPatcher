@@ -9,7 +9,7 @@ Features include:
 * Parallel Ping
 * Querying User Sessions
 
-Requirments:
+Requirements:
 * Scripts must be allowed to run
 `Set-ExecutionPolicy Unrestricted`
 * PSExec must be placed in the `C:\Windows\System32` folder
